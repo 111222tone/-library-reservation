@@ -31,7 +31,7 @@ def job():
     'applyStartTime': '06:30',
     'applyDuration': '15.5',
     'labRoomId': '10',
-    'seatNum': '281',
+    'seatNum': '座位号',
 }
     response1 = requests.post(
     'https://mipservice.tit.edu.cn/consumeServer/ReadingRoomWx/userSchLabApply',
