@@ -75,3 +75,4 @@ kill -9 pid
 进行转换：[网站](https://trumanwl.com/development/curl/python)
 ![alt text](image-7.png)
 下面就是修改代码等等......
+当然，你也可以同时给多人约，只需要增加json_data，requests.post就可以了。
