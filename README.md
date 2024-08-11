@@ -59,8 +59,10 @@ kill -9 pid
 # 方法一部分截图
 该座位已经被预约，一般来说，没人能抢过这个脚本，当然图书馆系统有时候0点会崩，如果0前崩就预约不了，0点之后就不关你事了
 ![alt text](image-3.png)
+
 该座位成功被你预约
 ![alt text](image-4.png)
+
 # 方法二部分截图
 ![alt text](image.png)
 ![alt text](image-1.png)
@@ -70,8 +72,10 @@ kill -9 pid
 # 实现过程
 使用游览器抓取请求，如图：
 ![alt text](image-5.png)
+
 复制curl：
 ![alt text](image-6.png)
+
 进行转换：[网站](https://trumanwl.com/development/curl/python)
 ![alt text](image-7.png)
 
